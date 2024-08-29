@@ -5,7 +5,6 @@ import { Login } from '../pages/login'
 import { PrivateRoute } from './PrivateRoute'
 import { Admin } from '../pages/adm'
 import { Layout } from './layout'
-import { ProfileYalout } from '../pages/components/ProfileLayout'
 
 
 
