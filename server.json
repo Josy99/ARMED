@@ -1,0 +1,10 @@
+{
+  "dados" :  [
+    {
+      "id":  1,
+       "nome": "jose",
+      "email":  "josefrancisco@gmail.com",
+      "password":  "Francisco@#2024"
+    }
+  ]
+}
